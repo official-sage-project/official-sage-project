@@ -2,7 +2,7 @@
 
 ## Your Gateway to Cybersecurity Knowledge
 
-![Sage-Project Logo/Banner](https://sage-project.my/images/sage-banner.png)
+![Sage-Project Logo/Banner](https://sage-project.my/banner.png)
 
 At **Sage-Project**, we believe that cybersecurity education should be accessible and engaging for everyone. Whether you're just starting your journey or looking to sharpen advanced defense skills, our platform is designed to guide you through the intricate landscape of cybersecurity.
 
